@@ -19,9 +19,12 @@ Project 0 Getting Started
 
 ## Part 3.1.3: Nsight Debugging
 ![Part 3.1.3: Nsight Debugging](images/Part-3-1-3_IncorrectThreadIdx.jpg)
+---
 ![Part 3.1.3: Nsight Debugging](images/Part-3-1-3_IncorrectThreadIdx2.jpg)
+---
 ![Part 3.1.3: Nsight Debugging](images/Part-3-1-3_IncorrectThreadIdx3.jpg)
 
 ## Part 3.2: WebGL Support
 ![Part 3.2: WebGL Support](images/Part-3-2-WebGL1.jpg)
+---
 ![Part 3.2: WebGL Support](images/Part-3-2-WebGL2.jpg)
