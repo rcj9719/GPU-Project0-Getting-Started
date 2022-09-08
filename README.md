@@ -8,6 +8,7 @@ Project 0 Getting Started
   * [Website](https://sites.google.com/view/rhuta-joshi)
 
 * Tested on: Windows 10 Home, i5-7200U CPU @ 2.50GHz, NVIDIA GTX 940MX 4096 MB (Personal Laptop), RTX not supported
+* GPU Compatibility: 5.0
 
 # Project Analysis #
 
